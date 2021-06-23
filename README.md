@@ -32,11 +32,11 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some major challenges I dealt with was the setup, specifically setting up Android Studio and getting used to the interface. I also had trouble with importing necessary packages automatically and toggling buttons in settings, but was fixed. I hope to add additional features in the future. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Christina Tan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
